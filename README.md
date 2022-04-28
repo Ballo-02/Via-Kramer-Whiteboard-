@@ -38,19 +38,22 @@ A .pptx presentation file that explains the project in full from start to finish
 ## How to use?
 
 ### `Linux-Go/Whiteboard.py` and `Windows-Go/Whiteboard.py`
-Run script in format: python3 Whiteboard.py target
-[Optional] python3 Original.py target tb")
-        t - Theme text
-        b - Background photo
+python3 Whiteboard.py target
+
+[Optional] python3 Original.py target tb
+
+t - Theme text
+
+b - Background photo
+
+
 Example
  - python3 Linux-Go/Whiteboard.py 10.10.11.145
  - python3 Windows-Go/Whiteboard.py 10.10.11.145 tc
  - python3 Linux-Go/Whiteboard.py 10.10.11.145 t
 
 ### `Linux-Go/Original.py` and `Windows-Go/Original.py`
-Run script in format: python3 Original.py target
-[Optional] python3 Original.py target tb")
-        t - Theme text
-        b - Background photo
+python3 Original.py target
+ 
 Example
  - python3 Windows-Go/Original.py 10.10.11.145

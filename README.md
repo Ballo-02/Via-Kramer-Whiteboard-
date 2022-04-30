@@ -13,7 +13,11 @@ This repository contains a IOT VIA Kramer Go exploit created for educational pur
 |   Name              |    Username     |
 |---------------------|-----------------|
 | Owen Ball           |   Ballo-02      |
-| Ben Roxbee C        |   sharkmoos     |
+|                     |   sharkmoos     |
+
+## Official Documentation on exploit-db
+Windows Script - https://www.exploit-db.com/exploits/50848
+Linux Script - https://www.exploit-db.com/exploits/50856
 
 ## What's in this repository?
 

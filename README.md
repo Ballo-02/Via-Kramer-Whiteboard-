@@ -1,5 +1,5 @@
 # Via-Kramer-Whiteboard Project
-A project intended for the Coventry University Talent Showcase event where we hack into IoT (Internet of Things) e.g. the whiteboard. We managed to get full RCE without admintstrator priveladge for the kramer Go (debain) and the same for the windows version but pre-exisitng user needed with password.
+A project intended for the Coventry University Talent Showcase event where we hack into IoT (Internet of Things) e.g. the whiteboard. We managed to get full RCE without admintstrator priveladge for the kramer Go (debain) and the same for the windows version but pre-exisitng user needed with password. I also added an additional script to change the background photo and room information such as code and name.
 
 ## Guidelines
  Official guidelines to follow - "Clearly identify and describe any potentially harmful content in a disclaimer in the project’s README.md file or source code comments.

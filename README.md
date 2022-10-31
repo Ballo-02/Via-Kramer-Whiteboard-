@@ -1,5 +1,8 @@
 # Via-Kramer-Whiteboard Project
-A project intended for the Coventry University Talent Showcase event where we hack into IoT (Internet of Things) e.g. the whiteboard. We managed to get full RCE without admintstrator priveladge for the kramer Go (debain) and the same for the windows version but pre-exisitng user needed with password. I also added an additional script to change the background photo and room information such as code and name.
+A project intended for the Coventry University Talent Showcase event where we hacked into IoT (Internet of Things) e.g. the whiteboard. We managed to get full RCE without admintstrator priveladge for the kramer Go (debain) and the same for the windows version but pre-exisitng user needed with password. I also added an additional script to change the background photo and room information such as code and name.
+
+# Author Notes
+We `WON` the "Student Opportunity Sponsorship" award from Capgemini at The Talent Showcase Event at Coventry University for this project and managed to get on exploitdb as shown below.
 
 ## Guidelines
  Official guidelines to follow - "Clearly identify and describe any potentially harmful content in a disclaimer in the project’s README.md file or source code comments.
@@ -16,8 +19,8 @@ This repository contains a IOT VIA Kramer Go exploit created for educational pur
 |                     |   sharkmoos     |
 
 ## Official Documentation on exploit-db
-Windows Script - https://www.exploit-db.com/exploits/50848
-Linux Script - https://www.exploit-db.com/exploits/50856
+ - Windows Script - https://www.exploit-db.com/exploits/50848
+ - Linux Script - https://www.exploit-db.com/exploits/50856
 
 ## What's in this repository?
 
